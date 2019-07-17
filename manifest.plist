@@ -60,11 +60,11 @@
 
                     <key>bundle-identifier</key>
 
-                    <string>应用的bundle-identifier</string>
+                    <string>H51942F3D</string>
 
                     <key>bundle-version</key>
 
-                    <string>1.0.1</string>
+                    <string>1.0.8</string>
 
                     <key>kind</key>
 
@@ -72,7 +72,7 @@
 
                     <key>title</key>
 
-                    <string>智能整装app</string>
+                    <string>智能整装工长端</string>
 
                 </dict>
 
